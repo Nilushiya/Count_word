@@ -1,0 +1,40 @@
+.box{
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(12, 11, 12);
+    padding: 100px;
+    height: 200px;
+    width: 150px;
+    margin: 150px auto;
+    border-radius: 5%;
+}
+h2{
+    color: white;
+}
+.input{
+   margin-bottom: 15px;
+   position: relative;
+   right: 10px;
+}
+button{
+    font-size: 15px;
+  margin: 5px ;
+  position: relative;
+  left: 8px;
+  background-color: yellow;
+  border-radius: 200px;
+  border: 2px solid blue;
+  padding: 5px;
+  margin-bottom: 15px;
+}
+.input:hover{
+    background-color: blue;
+}
+#result{
+    color: rgb(238, 230, 230);
+}
+
+#result{
+    position: relative;
+    left: 7px;
+}
